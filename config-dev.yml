@@ -1,1 +1,4 @@
 config dev version 1
+
+config:
+  name: I am dev
